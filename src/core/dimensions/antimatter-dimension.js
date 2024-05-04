@@ -1,4 +1,5 @@
 import { DC } from "../constants";
+import { tickspeedUpgrades } from "../secret-formula/multiplier-tab/tickspeed";
 
 import { DimensionState } from "./dimension";
 
